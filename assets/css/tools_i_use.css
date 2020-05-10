@@ -3,9 +3,6 @@ html {
 }
 
 body {
-    alignment: center;
-    text-align: center;
-    align-content: center;
     color: white;
     background-color: black;
     margin-left: 20%;
@@ -14,16 +11,19 @@ body {
     font-size: large;
 }
 
+div {
+    padding: 5%;
+}
+
 h1.my_name {
     font-size: small;
     text-align: center;
     margin-top: -20px;
     font-family: monospace;
-    color: brown;
 }
 
 a {
-    color: white;
+    color: yellow;
 }
 
 /*h1.index_title {*/
