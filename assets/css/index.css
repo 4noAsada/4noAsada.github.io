@@ -6,9 +6,12 @@ body {
     alignment: center;
     text-align: center;
     align-content: center;
-    background-color: black;
 }
 
+div {
+    background-color: antiquewhite;
+    opacity: 60%;
+}
 /*h1.index_title {*/
 /*    text-align: center;*/
 /*    background-color: black;*/
