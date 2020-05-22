@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+    color: white;
+}
+a {
+    color: white;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.panel {
+    width: 400px;
+    margin: 20px;
+    padding: 20px;
+    border: solid yellow;
+}
+
+#unreal-engine {
+    float: left;
+}
+
+#maya {
+    float: right;
+}
