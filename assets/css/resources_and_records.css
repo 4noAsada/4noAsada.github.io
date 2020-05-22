@@ -9,6 +9,7 @@ a {
 .container {
     display: flex;
     justify-content: center;
+    text-align: center;
 }
 
 .panel {
@@ -16,6 +17,16 @@ a {
     margin: 20px;
     padding: 20px;
     border: solid yellow;
+}
+
+.ratio-1-1-img {
+    height: 300px;
+    width: 300px;
+}
+
+#soul-anime-girl-container {
+    display: grid;
+    text-align: center;
 }
 
 #unreal-engine {
