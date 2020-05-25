@@ -18,6 +18,12 @@ h1.my_name {
     color: brown;
 }
 
+div.img-text {
+    display: grid;
+    justify-content: center;
+    text-align: center;
+}
+
 a {
     color: white;
 }
